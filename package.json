@@ -1,0 +1,9 @@
+{
+  "name": "test-ms-bot",
+  "version": "1.0.0",
+  "description": "my first bot using ms bot framework",
+  "dependencies": {
+    "botbuilder": "^3.4.4",
+    "restify": "^4.3.0"
+  }
+}
